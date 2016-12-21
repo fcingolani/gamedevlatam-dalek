@@ -1,0 +1,22 @@
+{
+  "name": "Dalek",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Federico Cingolani <mail@fcingolani.com.ar>",
+  "description": "Bot de GameDevLatam",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-game-idea": "^1.0.0",
+    "hubot-game-title": "^1.0.1",
+    "hubot-google-images": "^0.2.6",
+    "hubot-help": "^0.2.0",
+    "hubot-pugme": "^0.1.0",
+    "hubot-shy": "^1.0.2",
+    "hubot-slack": "^4.2.2",
+    "hubot-youtube": "^1.0.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
